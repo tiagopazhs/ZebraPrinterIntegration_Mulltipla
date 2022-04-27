@@ -7,15 +7,15 @@ CT~~CD,~CC^~CT~
 ^LS0
 
 
-^FT20,40^AAN,27,8^FH\^FD"@produto_string"^FS
-^FT20,75^AAN,27,8^FH\^FD"@produto_string"^FS
+^FT20,40^AAN,27,8^FH\^FDCopo Menos 1 Lixo ^FS
+^FT20,75^AAN,27,8^FH\^FDInter Especificao^FS
 ^BY2,3,50^FT20,145^BCN,60,Y,N
-^FD>;"@endereco_ean" ^FS
+^FD>;1234567^FS
 
-^FT20,40^AAN,27,8^FH\^FD"@produto_string"^FS
-^FT20,75^AAN,27,8^FH\^FD"@produto_string"^FS
-^BY2,3,50^FT20,145^BCN,60,Y,N
-^FD>;"@endereco_ean" ^FS
+^FT315,40^AAN,27,8^FH\^FDCopo Menos 1 Lixo ^FS
+^FT315,75^AAN,27,8^FH\^FDInter Especificao^FS
+^BY2,3,50^FT315,145^BCN,60,Y,N
+^FD>;1234567891314^FS
 
 ^FT610,40^AAN,27,8^FH\^FDCopo Menos 1 Lixo ^FS
 ^FT610,75^AAN,27,8^FH\^FDInter Especificao^FS
